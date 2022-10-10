@@ -19,9 +19,14 @@ Feel free to adjust the defaults to your needs.
 }
 .voice1 {
 	font-style: italic;
+	color: aliceblue;
 }
 .voice2 {
 	font-weight: bold;
+	color: bisque;
+}
+.voice3 {
+	color: blue;
 }
 
 /* **********************************************
@@ -132,6 +137,7 @@ body {
 	height: 100vh;
 	margin: 0;
 	justify-content: center;
+	background-color: rgb(255, 255, 255);
 }
 #video-container {
 	margin: auto;
@@ -148,4 +154,62 @@ iframe {
 	width: 80vw;
 	height: 53.33333333vw;
 	margin-top: -0.35vw;
+}
+@keyframes shake {
+	10%, 90% {
+		transform: translate3d(-1px, 0, 0);
+	  }
+	  
+	  20%, 80% {
+		transform: translate3d(2px, 0, 0);
+	  }
+	
+	  30%, 50%, 70% {
+		transform: translate3d(-4px, 0, 0);
+	  }
+	
+	  40%, 60% {
+		transform: translate3d(4px, 0, 0);
+	  }
+  }
+
+  @keyframes alarm {
+	10%, 90% {
+		transform: translate3d(-1px, 0, 0);
+	  }
+	  
+	  20%, 80% {
+		transform: translate3d(2px, 0, 0);
+	  }
+	
+	  30%, 50%, 70% {
+		transform: translate3d(-4px, 0, 0);
+	  }
+	
+	  40%, 60% {
+		transform: translate3d(4px, 0, 0);
+	  }
+  }
+
+
+  .sound0 #video-placeholder {
+	position: relative;
+	animation-name: shake;
+	animation-duration: 0.9s;
+	animation-iteration-count: 4;
+  }
+
+  .sound2 #video-placeholder {
+	position: relative;
+	animation-name: alarm;
+	animation-duration: 2s;
+  }
+
+
+  .sound1 {
+	  background-color: red;
+  }
+
+  .sound2 {
+	background-color: green;
 }
