@@ -137,7 +137,7 @@ body {
 	height: 100vh;
 	margin: 0;
 	justify-content: center;
-	background-color: rgb(255, 255, 255);
+	background-color: rgb(0, 0, 0);
 }
 #video-container {
 	margin: auto;
@@ -173,7 +173,27 @@ iframe {
 	  }
   }
 
-  @keyframes alarm {
+  @keyframes alarm 
+  {
+	0% {
+	  background-color: rgb(255, 81, 81);
+	}
+	50% {
+		background-color: rgba(255, 0, 0, 0.151);
+	}
+	80% {
+		background-color: rgb(255, 60, 60);
+	}
+	100% {
+		background-color: black;
+	}
+  }
+
+  
+/* link alarm
+https://codepen.io/francescostella/pen/NWWWMY*/
+
+   /*{
 	10%, 90% {
 		transform: translate3d(-1px, 0, 0);
 	  }
@@ -189,27 +209,27 @@ iframe {
 	  40%, 60% {
 		transform: translate3d(4px, 0, 0);
 	  }
-  }
+  }*/
 
 
   .sound0 #video-placeholder {
 	position: relative;
 	animation-name: shake;
-	animation-duration: 0.9s;
-	animation-iteration-count: 4;
+	animation-duration: 1.5s;
+	animation-iteration-count: 5;
   }
 
-  .sound2 #video-placeholder {
-	position: relative;
+ /* .sound1 {
+	
+}*/
+
+
+  .sound2  {
 	animation-name: alarm;
-	animation-duration: 2s;
+	animation-duration: 0.5s;
+	animation-iteration-count: 2;
   }
 
-
-  .sound1 {
-	  background-color: red;
+  .sound3 {
+	  
   }
-
-  .sound2 {
-	background-color: green;
-}
