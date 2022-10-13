@@ -18,15 +18,26 @@ Feel free to adjust the defaults to your needs.
 	opacity: 0;
 }
 .voice1 {
-	font-style: italic;
-	color: aliceblue;
+	color: rgb(255, 103, 103);
+	font-family: "Brenner Mono"; 
+	font-style: Normal; 
+	font-weight: 400;
+	font-size: 35px;
 }
 .voice2 {
-	font-weight: bold;
-	color: bisque;
+	font-weight: 600;
+	color: rgb(255, 255, 255);
+	font-family: "Brenner Sans Condensed";
+	font-size: 40px;
 }
 .voice3 {
-	color: blue;
+	color: rgb(90, 123, 255);
+	font-size: 20px;
+	font-family: "Brenner Bold Italic";
+}
+
+.voice4 {
+	color: rgb(0, 154, 46);
 }
 
 /* **********************************************
@@ -39,18 +50,18 @@ You probably want to change the styling.
 ********************************************** */
 .p0 span {
 	opacity: 0;
-	font-family: brenner;
 }
 .p0.on span:first-of-type {
 	opacity: 1;
 	transition: 0s;
-	font-weight: 200;
+	font-weight: 400;
 }
 .p0.on span:nth-of-type(2) {
 	opacity: 1;
 	transition: 0s .4s;
 	margin-right: -.25em;
 	font-weight: 400;
+	font-size: 35px;
 }
 .p0.on span:nth-of-type(3) {
 	opacity: 1;
@@ -68,46 +79,46 @@ You probably want to change the styling.
 	opacity: 1;
 	transition: 0s 1.1s;
 	margin-right: -.25em;
-	font-family: "brenner sans";
 }
 .p0.on span:nth-of-type(6) {
 	opacity: 1;
 	transition: 0s 1.4s;
 	margin-right: -.25em;
-	font-family: "brenner display";
 }
 .p0.on span:nth-of-type(7) {
 	opacity: 1;
 	transition: 0s 1.7s;
 	margin-right: -.25em;
-	font-family: "brenner script";
 }
 .p0.on span:nth-of-type(8) {
 	opacity: 1;
 	transition: 0s 2s;
-	font-family: "brenner script";
 }
 .p0.on span:nth-of-type(9) {
 	opacity: 1;
 	transition: 0s 3s;
-	font-family: "brenner Sans condensed";
 }
 .p0.on span:nth-of-type(10) {
 	opacity: 1;
 	transition: 0s 3.2s;
-	font-family: "brenner mono";
 }
 .p0.on span:nth-of-type(11) {
 	opacity: 1;
 	transition: 0s 3.7s;
-	font-family: "brenner slab";
+	font-style: italic;
 }
 
-.p1.on {
-	background: hotpink;
-	color: red;
-	font-size: 200px;
+
+
+.p6 span {
+	margin-top: -100em;
 }
+
+
+/*.p6.on {
+	margin-top: -15em;
+}*/
+
 
 /* **********************************************
 Sounds.
@@ -157,19 +168,19 @@ iframe {
 }
 @keyframes shake {
 	10%, 90% {
-		transform: translate3d(-1px, 0, 0);
+		transform: translate3d(-4px, 0, 0);
 	  }
 	  
 	  20%, 80% {
-		transform: translate3d(2px, 0, 0);
+		transform: translate3d(5px, 0, 0);
 	  }
 	
 	  30%, 50%, 70% {
-		transform: translate3d(-4px, 0, 0);
+		transform: translate3d(-7px, 0, 0);
 	  }
 	
 	  40%, 60% {
-		transform: translate3d(4px, 0, 0);
+		transform: translate3d(7px, 0, 0);
 	  }
   }
 
@@ -187,6 +198,36 @@ iframe {
 	100% {
 		background-color: black;
 	}
+  }
+
+  @keyframes alarm2
+  {
+	0% {
+	  background-color: rgb(255, 81, 81);
+	}
+	50% {
+		background-color: rgba(255, 0, 0, 0.151);
+	}
+	80% {
+		background-color: rgb(255, 60, 60);
+	}
+	100% {
+		background-color: black;
+	}
+  }
+
+  @keyframes down {
+	0%   {top: 0px;}
+	50%  {top: 200px}
+	100%  {top: 0px;}
+
+  }
+
+  @keyframes flyright {
+	0%   {left: 0px;}
+	50%  {left: 200px}
+	100%  {left: 200px;}
+
   }
 
   
@@ -230,6 +271,21 @@ https://codepen.io/francescostella/pen/NWWWMY*/
 	animation-iteration-count: 2;
   }
 
-  .sound3 {
-	  
+  .sound1 #video-placeholder {
+	position: relative;
+	animation-name: flyright;
+	animation-duration: 6s;
+	animation-iteration-count: 1;
+  }
+  .sound4 #video-placeholder {
+	position: relative;
+	animation-name: down;
+	animation-duration: 6s;
+	animation-iteration-count: 1;
+  }
+
+  .sound4 {
+	animation-name: alarm2;
+	animation-duration: 1s;
+	animation-iteration-count: 1; 
   }
