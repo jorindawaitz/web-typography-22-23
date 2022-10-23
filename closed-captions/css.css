@@ -18,11 +18,11 @@ Feel free to adjust the defaults to your needs.
 	opacity: 0;
 }
 .voice1 {
-	color: rgb(255, 103, 103);
-	font-family: "Brenner Mono"; 
+	color: rgb(255, 255, 103);
+	font-family: "Brenner Mono Regular"; 
 	font-style: Normal; 
 	font-weight: 400;
-	font-size: 35px;
+	font-size: 34px;
 }
 .voice2 {
 	font-weight: 600;
@@ -31,13 +31,15 @@ Feel free to adjust the defaults to your needs.
 	font-size: 40px;
 }
 .voice3 {
-	color: rgb(90, 123, 255);
+	color: rgb(111, 0, 0);
 	font-size: 20px;
 	font-family: "Brenner Bold Italic";
 }
 
 .voice4 {
-	color: rgb(0, 154, 46);
+	color: rgb(255, 255, 103);
+	font-family: "Brenner Mono Regular";
+	font-size: 34px;
 }
 
 /* **********************************************
@@ -220,13 +222,78 @@ You probably want to change the styling.
 	transition: 0s .5s;
 }
 
+.p45 span {
+	opacity: 0;
+}
+.p45.on span:first-of-type {
+	opacity: 1;
+	transition: 0s .3s;
+}
+.p45.on span:nth-of-type(2) {
+	opacity: 1;
+	transition: 0s .4s;
+}
+
+.p0, .p1, .p2, .p4, .p5, .p6, .p7 {
+	top: 80vh;
+	left: 10vw;
+	right: 10vw;
+}
+
 .p8, .p9, .p10, .p11, .p12, .p13, .p14, .p15, .p16, .p17, .p18, .p19, .p20, .p21, .p22, .p23, .p24, .p25, .p26, .p27, .p28, .p29, .p30, .p31, .p32, .p33, .p34, .p35, .p36, .p37, .p38, .p39, .p40, .p41, .p42, .p43{
 	top: 65vh;
 	left: 20vw;
 	right: 20vw;
+	background-color: rgb(0, 0, 0, 0.4);
+}
+.p8, .p10, .p11,  .p13, .p14, .p16, .p17, .p19, .p21, .p22, .p24, .p25, .p27, .p28, .p30, .p32, .p33,  .p35, .p36,  .p38,  .p40 {
+	font-family: "Brenner Mono Regular Italic";
 }
 
 
+.p44 {
+	top: 65vh;
+	left: 41vw;
+	right: 41vw;
+	background-color: rgb(0, 0, 0, 0.4);
+}
+
+.p45 {
+	top: 65vh;
+	left: 41vw;
+	right: 41vw;
+	background-color: rgb(0, 0, 0, 0.4);
+}
+
+.p46 {
+	top: 65vh;
+	left: 28vw;
+	right: 28vw;
+	background-color: rgb(0, 0, 0, 0.4);
+}
+
+.p47 {
+	top: 65vh;
+	left: 42vw;
+	right: 42vw;
+	background-color: rgb(0, 0, 0, 0.4);
+}
+
+.p47 span {
+	opacity: 0;
+}
+.p47.on span:first-of-type {
+	opacity: 1;
+	transition: 0s .3s;
+}
+.p47.on span:nth-of-type(2) {
+	opacity: 1;
+	transition: 0s .3s;
+}
+.p47.on span:nth-of-type(3) {
+	opacity: 1;
+	transition: 0s .4s;
+}
 
 /* **********************************************
 Sounds.
@@ -502,6 +569,33 @@ iframe {
 		transform: scale(1.2);
 	}
 }
+
+@keyframes updown {
+	0%   {top: 0px;}
+	25%  {top: 75px}
+	50%  {top: 0px;}
+	75%  {top: -75px;}
+	100% {top: 0px;}
+  }
+
+
+  @keyframes updownstop {
+	0%   {top: 0px;}
+	25%  {top: 0px}
+	50%  {top: 0px;}
+	75%  {top: 0px;}
+	100% {top: 0px;}
+  }
+
+  @keyframes flitsen5
+  {
+	0% {
+	  background-color: rgb(255, 255, 255);
+	}
+	100% {
+		background-color: rgb(0, 0, 0);
+	}
+  }
   
 /* link alarm
 https://codepen.io/francescostella/pen/NWWWMY*/
@@ -662,4 +756,22 @@ https://codepen.io/francescostella/pen/NWWWMY*/
 	animation-iteration-count: 1;
   }
 
+  .sound15 #video-mask {
+	animation-name: updown;
+	animation-duration: 10s;
+	animation-iteration-count: 10; 
+	animation-timing-function: linear;
+  }
 
+  .sound15 {
+	animation-name: flitsen5;
+	animation-duration: 1.6s;
+	animation-iteration-count: 10;
+  }
+
+  .sound16 #video-mask {
+	animation-name: updownstop;
+	animation-duration: 10s;
+	animation-iteration-count: 10; 
+	animation-timing-function: linear;
+  }
