@@ -6,6 +6,28 @@ Typografie: Font
 
 Ik heb ervoor gekozen om gebruik te maken van het Brenner font. Dit font heeft veel verschillende mogelijkheden en dat vond ik een voordeel.
 
+In het eerste fragment hoorde ik drie verschillende stemmen.
+
+Voice1: De “baas” van officer KD6-3.7
+
+Voice2: officer KD6-3.7
+
+Voice3: Collega?
+
+Voor Voice1 heb ik het font “Brenner Mono” gebruikt, maar dit heb ik niet in elke scene hetzelfde gebruikt.
+In de eerste scène van voice1 is zijn stem neutraal, maar wel duidelijk en serieus. Daarom heb “Brenner Mono regular” gebruikt.
+De tweede scène van voice1, is wanneer officer KD6-3.7 zijn test aflegt. Daar heb ik het font “Brenner mono regular italic” gebruikt. Het is namelijk dezelfde stem als in scene1, maar net wat sneller. Door italic, oogt het wat vlotter, wat past bij de snelheid van praten.
+In de derde scène van voice1 heb ik weer “Brenner Mono regular” gebruikt. Hij praat daar weer rustiger, maar wel serieus.
+Voor Voice2 heb ik het font “Brenner sans condensed” gebruikt. De stem van officer KD6-3.7 is zwaarder dan voice1 en is daarom dikker. Ook heeft hij niet heel veel emotie in zijn stem en past dit font daar goed bij omdat het simpel en recht is.
+Voice3 zegt maar een zin. Hij fluistert “Fuck off, skin-job” snel, maar het heeft een scherpe rand eraan. Daarom heb ik gekozen voor het lettertype “brenner bold italic”. Het is een lettertype met schreef, waardoor je letterlijk dat “scherpe randje” eraan hebt. Verder zegt voice3 het redelijk zacht, maar toch ook hard en snel, daarom heb ik voor bold en italic gekozen.
+Typografie: Kleur
+
+Ik heb ervoor gekozen om voice1 geel te maken. Geel heeft namelijk een goed contrast met zwart (de achtergrond). Dit zorgt ervoor dat de tekst goed leesbaar is.
+
+Voice2 heeft een witte kleur. Voice2 is namelijk de hoofdpersoon in de film, dus hij moest een duidelijk contrast hebben met de achtergrond (zwart).
+
+Voice3 heb ik rood gemaakt. Rood en zwart is eigenlijk niet goed voor contrast, maar dat is juist de bedoeling. Hij fluistert namelijk en doordat rood er niet echt uitspringt, krijg je meer het gevoel dat hij het zacht zei. Ook zei hij het op een gemene manier en rood staat onder andere voor woede.
+
 ## Web Typography, 2022/2023
 
 Als je doof bent, of als je om een andere reden geen geluid kunt horen, dan mis je veel informatie als je een film kijkt. Knisperende voetstappen, langzaam aanzwellende muziek, nerveus getik op een deur, je hoort het natuurlijk allemaal niet. Nu bestaat er zoiets als _closed caption_, wat een type ondertiteling is waarbij ook dingen als omgevingsgeluiden en de muziek beschreven worden. Hierdoor krijgt een kijker die informatie wel binnen.
