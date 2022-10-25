@@ -24,7 +24,7 @@ In het fragment hoorde ik drie verschillende stemmen.
 
 Voice1: De “baas” van officer KD6-3.7
 
-Voice2: officer KD6-3.7
+Voice2: Officer KD6-3.7
 
 Voice3: Collega
 
