@@ -42,6 +42,14 @@ Feel free to adjust the defaults to your needs.
 	font-size: 34px;
 }
 
+.voice5 {
+	color: rgb(255, 255, 103);
+	font-family: "Brenner Mono Regular"; 
+	font-style: Normal; 
+	font-weight: 400;
+	font-size: 34px;
+}
+
 /* **********************************************
 The first paragraph, with extended timing for 
 	all siblings. Basically what it does is that
@@ -293,6 +301,143 @@ You probably want to change the styling.
 .p47.on span:nth-of-type(3) {
 	opacity: 1;
 	transition: 0s .4s;
+}
+
+.p50 span {
+	opacity: 0;
+}
+.p50.on span:first-of-type {
+	opacity: 1;
+}
+.p50.on span:nth-of-type(2) {
+	opacity: 1;
+}
+.p50.on span:nth-of-type(3) {
+	opacity: 1;
+}
+.p50.on span:nth-of-type(4) {
+	opacity: 1;
+}
+.p50.on span:nth-of-type(5) {
+	opacity: 1;
+}
+.p50.on span:nth-of-type(6) {
+	opacity: 1;
+}
+.p50.on span:nth-of-type(7) {
+	opacity: 1;
+}
+.p50.on span:nth-of-type(8) {
+	opacity: 1;
+	transition: 0s 1.3s;
+}
+
+.p52 span {
+	opacity: 0;
+}
+.p52.on span:first-of-type {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(2) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(3) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(4) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(5) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(6) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(7) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(8) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(9) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(10) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(11) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(12) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(13) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(14) {
+	opacity: 1;
+}
+.p52.on span:nth-of-type(15) {
+	opacity: 1;
+	transition: 0s 2.4s;
+}
+
+.p54 span {
+	opacity: 0;
+}
+.p54.on span:first-of-type {
+	opacity: 1;
+}
+.p54.on span:nth-of-type(2) {
+	opacity: 1;
+}
+.p54.on span:nth-of-type(3) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(4) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(5) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(6) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(7) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(8) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(9) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(10) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(11) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(12) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold";
+}
+.p54.on span:nth-of-type(13) {
+	opacity: 1;
+	font-family: "Brenner Mono Bold Italic";
+}
+
+.p57, .p65, .p67, .p69, .p71, .p73, .p75, .p77 {
+	font-family: "Brenner Mono Regular Italic";
 }
 
 /* **********************************************
