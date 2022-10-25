@@ -3,6 +3,7 @@
 ## Ontwerpkeuzes
 
 Typografie: Font
+
 Ik heb ervoor gekozen om gebruik te maken van het Brenner font. Dit font heeft veel verschillende mogelijkheden en dat vond ik een voordeel.
 
 ## Web Typography, 2022/2023
