@@ -57,6 +57,8 @@ In de eerste helft van fragment 1, heb ik de tekst buiten het beeld staan. De te
 In de tweede helft van fragment 1, heb ik de tekst juist in het beeld staan. Door het knipperde licht, was de tekst slecht leesbaar. Ook gebeurt er niet heel veel visuele dingen in het beeld, visueel is het een rustige scene, dus leidde de tekst niet af.
 In het tweede fragment heb ik de tekst eigenlijk buiten het beeld staan, maar omdat het beeld omhoog- en omlaaggaat en groter wordt, komt de tekst soms in het beeld te staan. Dat komt een beetje irritant over, wat precies de bedoeling is. Het fragment heeft namelijk een irritante piep op de achtergrond.
 
+---
+
 EFFECTEN
 
 Om het gevoel van het geluid over te brengen heb ik gebruik gemaakt van verschillende effecten gemaakt met animaties.
