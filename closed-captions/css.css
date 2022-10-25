@@ -341,6 +341,12 @@ You probably want to change the styling.
 	transition: 0s .4s;
 }
 
+.p48, .p49, .p50, .p51, .p52, .p53, .p54, .p55, .p56, .p57, .p58, .p59, .p60, .p61, .p62, .p63, .p64, .p65, .p66, .p67, .p68, .p69, .p70, .p71, .p72, .p73, .p74, .p75, .p76, .p77, .p78, .p79 {
+	top: 80vh;
+	left: 12vw;	
+	right: 12vw
+}
+
 .p50 span {
 	opacity: 0;
 }
@@ -427,53 +433,68 @@ You probably want to change the styling.
 }
 .p54.on span:first-of-type {
 	opacity: 1;
+	transition: 0s .3s;
 }
 .p54.on span:nth-of-type(2) {
-	opacity: 1;
+	opacity: 0.8;
+	font-family: "Brenner Sans Condensed";
+	color: white;
+	transition: 0s .8s;
 }
 .p54.on span:nth-of-type(3) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 1.5s;
 }
 .p54.on span:nth-of-type(4) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 1.5s;
 }
 .p54.on span:nth-of-type(5) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 1.9s;
 }
 .p54.on span:nth-of-type(6) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 1.9s;
 }
 .p54.on span:nth-of-type(7) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 2.1s;
 }
 .p54.on span:nth-of-type(8) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 2.1s;
 }
 .p54.on span:nth-of-type(9) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 2.5s;
 }
 .p54.on span:nth-of-type(10) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 2.5s;
 }
 .p54.on span:nth-of-type(11) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 2.8s;
 }
 .p54.on span:nth-of-type(12) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold";
+	transition: 0s 2.8s;
 }
 .p54.on span:nth-of-type(13) {
 	opacity: 1;
 	font-family: "Brenner Mono Bold Italic";
+	transition: 0s 2.9s;
 }
 
 .p57, .p65, .p67, .p69, .p71, .p73, .p75, .p77 {
