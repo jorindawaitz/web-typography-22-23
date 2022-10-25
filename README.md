@@ -61,7 +61,7 @@ In het tweede fragment heb ik de tekst eigenlijk buiten het beeld staan, maar om
 
 EFFECTEN
 
-Om het gevoel van het geluid over te brengen heb ik gebruik gemaakt van verschillende effecten gemaakt met animaties.
+Om het gevoel van het geluid over te brengen heb ik gebruik gemaakt van verschillende effecten, gemaakt met animaties.
 
 In de eerste scène hoor je een trillend geluid. Ik heb dit geluid ook letterlijk omgezet in een trillend beeld. In het eerste fragment komen ook verschillende alarm geluiden in voor. Ik heb elk alarm op een net andere manier geanimeerd. Om echt goed onderscheid te maken tussen de alarmen heb ik ze allemaal een andere kleur gegeven. Ik hoorde drie verschillende soorten tonen alarm. Iedere toon heeft dus een eigen kleur. Ik heb de kleuren: blauw, rood en groen gebruikt. Deze kleuren heb ik gekozen, omdat dat de standaardkleuren zijn van alarmen. Ook vallen ze goed op en trekken ze daardoor de aandacht, net als het geluid.
 Om niet alleen maar de achtergrond te laten veranderen van kleur, heb ik ook gebruik gemaakt van bewegingen van het beeld bij bepaalde geluiden.
