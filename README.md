@@ -2,34 +2,72 @@
 
 ## Ontwerpkeuzes
 
-Typografie: Font
+Feedback 1:
+
+Tijdens de eerste feedback ronde kreeg ik te horen dat ik meer naar het geluid moest luisteren dan te kijken wat er visueel gebeurt. Ik had namelijk bij de scene dat officer KD6-3.7 aan kwam vliegen met zijn auto, de animatie letterlijk vertaald naar wat ik zag. Hij komt van links naar rechts aanvliegen en gaat daarna naar onder. Ik had een animatie gemaakt waar het beeld ook van links naar rechts en naar onder ging.
+
++Ik heb de feedback meegenomen en die animatie verwijdert. Wel heb ik die animaties nog toegepast, maar dan echt op geluiden.
+
+Feedback 2:
+
+Tijdens de tweede ronde kreeg is als feedback dat mijn tekst in het beeld aan de linker- en rechterkant niet dezelfde witruimte had. Ook had ik dezelfde flikkering animatie gebruikt bij fragment 2 als bij fragment 1. Die piep was alleen niet hetzelfde.
+
++Ik heb beide feedback punten aangepast door bij de tekst padding toe te voegen en bij het tweede fragment een andere animatie te gebruiken.
+
+---
+
+TYPOGRAFIE: Font
 
 Ik heb ervoor gekozen om gebruik te maken van het Brenner font. Dit font heeft veel verschillende mogelijkheden en dat vond ik een voordeel.
 
-In het eerste fragment hoorde ik drie verschillende stemmen.
+In het fragment hoorde ik drie verschillende stemmen.
 
 Voice1: De “baas” van officer KD6-3.7
 
 Voice2: officer KD6-3.7
 
-Voice3: Collega?
+Voice3: Collega
 
 Voor Voice1 heb ik het font “Brenner Mono” gebruikt, maar dit heb ik niet in elke scene hetzelfde gebruikt.
 In de eerste scène van voice1 is zijn stem neutraal, maar wel duidelijk en serieus. Daarom heb “Brenner Mono regular” gebruikt.
 De tweede scène van voice1, is wanneer officer KD6-3.7 zijn test aflegt. Daar heb ik het font “Brenner mono regular italic” gebruikt. Het is namelijk dezelfde stem als in scene1, maar net wat sneller. Door italic, oogt het wat vlotter, wat past bij de snelheid van praten.
+In het tweede fragment hoorde ik dezelfde stem als in fragment 1. Wel sprak voice1 met verschillende toonhoogtes en snelheden, dus ik heb het font “Brenner Mono regular” afgewisseld met bold en italic.
 
 In de derde scène van voice1 heb ik weer “Brenner Mono regular” gebruikt. Hij praat daar weer rustiger, maar wel serieus.
 Voor Voice2 heb ik het font “Brenner sans condensed” gebruikt. De stem van officer KD6-3.7 is zwaarder dan voice1 en is daarom dikker. Ook heeft hij niet heel veel emotie in zijn stem en past dit font daar goed bij omdat het simpel en recht is.
 
 Voice3 zegt maar een zin. Hij fluistert “Fuck off, skin-job” snel, maar het heeft een scherpe rand eraan. Daarom heb ik gekozen voor het lettertype “brenner bold italic”. Het is een lettertype met schreef, waardoor je letterlijk dat “scherpe randje” eraan hebt. Verder zegt voice3 het redelijk zacht, maar toch ook hard en snel, daarom heb ik voor bold en italic gekozen.
 
-Typografie: Kleur
+TYPOGRAFIE: Kleur
 
 Ik heb ervoor gekozen om voice1 geel te maken. Geel heeft namelijk een goed contrast met zwart (de achtergrond). Dit zorgt ervoor dat de tekst goed leesbaar is.
 
 Voice2 heeft een witte kleur. Voice2 is namelijk de hoofdpersoon in de film, dus hij moest een duidelijk contrast hebben met de achtergrond (zwart).
 
 Voice3 heb ik rood gemaakt. Rood en zwart is eigenlijk niet goed voor contrast, maar dat is juist de bedoeling. Hij fluistert namelijk en doordat rood er niet echt uitspringt, krijg je meer het gevoel dat hij het zacht zei. Ook zei hij het op een gemene manier en rood staat onder andere voor woede.
+
+TYPOGRAFIE: grootte
+
+Ik heb ervoor gekozen om de tekst groot te maken. Het geluid voor doven mensen valt natuurlijk weg, dus wat er gezegd wordt in de film moet dan tenminste goed leesbaar zijn.
+Alleen bij voice3 heb ik het lettertype kleiner gemaakt. Dit heb ik gedaan omdat hij fluistert.
+
+TYPOGRAFIE: plaatsing
+
+In de eerste helft van fragment 1, heb ik de tekst buiten het beeld staan. De tekst is namelijk erg groot en kan afleidend zijn als het in het beeld staat.
+In de tweede helft van fragment 1, heb ik de tekst juist in het beeld staan. Door het knipperde licht, was de tekst slecht leesbaar. Ook gebeurt er niet heel veel visuele dingen in het beeld, visueel is het een rustige scene, dus leidde de tekst niet af.
+In het tweede fragment heb ik de tekst eigenlijk buiten het beeld staan, maar omdat het beeld omhoog- en omlaaggaat en groter wordt, komt de tekst soms in het beeld te staan. Dat komt een beetje irritant over, wat precies de bedoeling is. Het fragment heeft namelijk een irritante piep op de achtergrond.
+
+EFFECTEN
+
+Om het gevoel van het geluid over te brengen heb ik gebruik gemaakt van verschillende effecten gemaakt met animaties.
+
+In de eerste scène hoor je een trillend geluid. Ik heb dit geluid ook letterlijk omgezet in een trillend beeld. In het eerste fragment komen ook verschillende alarm geluiden in voor. Ik heb elk alarm op een net andere manier geanimeerd. Om echt goed onderscheid te maken tussen de alarmen heb ik ze allemaal een andere kleur gegeven. Ik hoorde drie verschillende soorten tonen alarm. Iedere toon heeft dus een eigen kleur. Ik heb de kleuren: blauw, rood en groen gebruikt. Deze kleuren heb ik gekozen, omdat dat de standaardkleuren zijn van alarmen. Ook vallen ze goed op en trekken ze daardoor de aandacht, net als het geluid.
+Om niet alleen maar de achtergrond te laten veranderen van kleur, heb ik ook gebruik gemaakt van bewegingen van het beeld bij bepaalde geluiden.
+
+In de laatste scène van fragment 1 hoor je een piepend geluid wat steeds harder wordt. Ik vond dat geluid heel irritant, daarom heb ik ervoor gekozen om het visueel ook irritant te maken. Ik heb dit gedaan door de achtergrond steeds sneller te laten fikkeren van zwart naar wit. Ook wordt het beeld langzaam steeds groter, waardoor het goed overkomt dat het geluid toeneemt.
+
+In fragment 2 hoor je ook een irritante piep, maar het is dit keer net een andere toon en toch iets minder overheersend. Daarom heb ik ervoor gekozen om toch iets van een flikkering/beweging op de achtergrond te plaatsen, maar niet te overheersend.
+Verder hoor je in het begin van fragment 2 een soort van “zweverig” geluid. Daarom heb ik het beeld ook een soort van laten zweven. Dat zweverige geluid wordt steeds wat heftiger en krijgt meer een spannende toon. Ik heb het visueel heftiger gemaakt door het beeld groter en kleiner te maken met een rode rand eromheen. Ik heb voor een rode rand gekozen, omdat rood voor spannend staat.
 
 ## Web Typography, 2022/2023
 
