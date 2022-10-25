@@ -17,9 +17,12 @@ Voice3: Collega?
 Voor Voice1 heb ik het font “Brenner Mono” gebruikt, maar dit heb ik niet in elke scene hetzelfde gebruikt.
 In de eerste scène van voice1 is zijn stem neutraal, maar wel duidelijk en serieus. Daarom heb “Brenner Mono regular” gebruikt.
 De tweede scène van voice1, is wanneer officer KD6-3.7 zijn test aflegt. Daar heb ik het font “Brenner mono regular italic” gebruikt. Het is namelijk dezelfde stem als in scene1, maar net wat sneller. Door italic, oogt het wat vlotter, wat past bij de snelheid van praten.
+
 In de derde scène van voice1 heb ik weer “Brenner Mono regular” gebruikt. Hij praat daar weer rustiger, maar wel serieus.
 Voor Voice2 heb ik het font “Brenner sans condensed” gebruikt. De stem van officer KD6-3.7 is zwaarder dan voice1 en is daarom dikker. Ook heeft hij niet heel veel emotie in zijn stem en past dit font daar goed bij omdat het simpel en recht is.
+
 Voice3 zegt maar een zin. Hij fluistert “Fuck off, skin-job” snel, maar het heeft een scherpe rand eraan. Daarom heb ik gekozen voor het lettertype “brenner bold italic”. Het is een lettertype met schreef, waardoor je letterlijk dat “scherpe randje” eraan hebt. Verder zegt voice3 het redelijk zacht, maar toch ook hard en snel, daarom heb ik voor bold en italic gekozen.
+
 Typografie: Kleur
 
 Ik heb ervoor gekozen om voice1 geel te maken. Geel heeft namelijk een goed contrast met zwart (de achtergrond). Dit zorgt ervoor dat de tekst goed leesbaar is.
