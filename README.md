@@ -2,13 +2,13 @@
 
 ## Ontwerpkeuzes
 
-Feedback 1:
+**Feedback 1:**
 
 Tijdens de eerste feedback ronde kreeg ik te horen dat ik meer naar het geluid moest luisteren dan te kijken wat er visueel gebeurt. Ik had namelijk bij de scene dat officer KD6-3.7 aan kwam vliegen met zijn auto, de animatie letterlijk vertaald naar wat ik zag. Hij komt van links naar rechts aanvliegen en gaat daarna naar onder. Ik had een animatie gemaakt waar het beeld ook van links naar rechts en naar onder ging.
 
 +Ik heb de feedback meegenomen en die animatie verwijdert. Wel heb ik die animaties nog toegepast, maar dan echt op geluiden.
 
-Feedback 2:
+**Feedback 2:**
 
 Tijdens de tweede ronde kreeg is als feedback dat mijn tekst in het beeld aan de linker- en rechterkant niet dezelfde witruimte had. Ook had ik dezelfde flikkering animatie gebruikt bij fragment 2 als bij fragment 1. Die piep was alleen niet hetzelfde.
 
@@ -16,7 +16,7 @@ Tijdens de tweede ronde kreeg is als feedback dat mijn tekst in het beeld aan de
 
 ---
 
-TYPOGRAFIE: Font
+**TYPOGRAFIE: Font**
 
 Ik heb ervoor gekozen om gebruik te maken van het Brenner font. Dit font heeft veel verschillende mogelijkheden en dat vond ik een voordeel.
 
@@ -38,7 +38,7 @@ Voor Voice2 heb ik het font “Brenner sans condensed” gebruikt. De stem van o
 
 Voice3 zegt maar een zin. Hij fluistert “Fuck off, skin-job” snel, maar het heeft een scherpe rand eraan. Daarom heb ik gekozen voor het lettertype “brenner bold italic”. Het is een lettertype met schreef, waardoor je letterlijk dat “scherpe randje” eraan hebt. Verder zegt voice3 het redelijk zacht, maar toch ook hard en snel, daarom heb ik voor bold en italic gekozen.
 
-TYPOGRAFIE: Kleur
+**TYPOGRAFIE: Kleur**
 
 Ik heb ervoor gekozen om voice1 geel te maken. Geel heeft namelijk een goed contrast met zwart (de achtergrond). Dit zorgt ervoor dat de tekst goed leesbaar is.
 
@@ -46,12 +46,12 @@ Voice2 heeft een witte kleur. Voice2 is namelijk de hoofdpersoon in de film, dus
 
 Voice3 heb ik rood gemaakt. Rood en zwart is eigenlijk niet goed voor contrast, maar dat is juist de bedoeling. Hij fluistert namelijk en doordat rood er niet echt uitspringt, krijg je meer het gevoel dat hij het zacht zei. Ook zei hij het op een gemene manier en rood staat onder andere voor woede.
 
-TYPOGRAFIE: grootte
+**TYPOGRAFIE: grootte**
 
 Ik heb ervoor gekozen om de tekst groot te maken. Het geluid voor doven mensen valt natuurlijk weg, dus wat er gezegd wordt in de film moet dan tenminste goed leesbaar zijn.
 Alleen bij voice3 heb ik het lettertype kleiner gemaakt. Dit heb ik gedaan omdat hij fluistert.
 
-TYPOGRAFIE: plaatsing
+**TYPOGRAFIE: plaatsing**
 
 In de eerste helft van fragment 1, heb ik de tekst buiten het beeld staan. De tekst is namelijk erg groot en kan afleidend zijn als het in het beeld staat.
 In de tweede helft van fragment 1, heb ik de tekst juist in het beeld staan. Door het knipperde licht, was de tekst slecht leesbaar. Ook gebeurt er niet heel veel visuele dingen in het beeld, visueel is het een rustige scene, dus leidde de tekst niet af.
@@ -59,7 +59,7 @@ In het tweede fragment heb ik de tekst eigenlijk buiten het beeld staan, maar om
 
 ---
 
-EFFECTEN
+**EFFECTEN**
 
 Om het gevoel van het geluid over te brengen heb ik gebruik gemaakt van verschillende effecten, gemaakt met animaties.
 
